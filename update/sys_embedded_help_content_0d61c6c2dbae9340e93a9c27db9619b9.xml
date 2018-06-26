@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>hr</category>
+        <content><![CDATA[     <h1 class="title topictitle1">HR service configuration</h1>    <div class="body conbody">    <p class="p">HR service categorization starts with the number of HR services your company provides. Does      your company provide one or multiple HR services? For example, your company can provide      multiple retirement plans with each having different fulfillment instructions with a separate      service for each.</p>    <div class="p">There are four levels to HR service categorization:<ul class="ul" id="sn_hr_core_service_list-setup__ul_x21_ljm_lx"><li class="li">Center of Excellence (COE)</li><li class="li">Topic Category</li><li class="li">Topic Detail</li><li class="li">HR Service</li></ul>Each level provides additional details.<ul class="ul" id="sn_hr_core_service_list-setup__ul_vdf_m5g_lx"><li class="li">Define the appropriate categorization. At the top level, identifying the Center of          Excellence (COE) determines the case table used for cases originating from the service.          COEs are tables that extend the HR case table.</li><li class="li">Topic Category is below COE. Use the topic category to organize your HR services. For          example, some companies split Total Rewards (COE) into Benefits and Compensation.</li><li class="li">Topic details provide a granular level of categorization and are useful for reporting          purposes. For example, you can create a Medical Plan topic detail that would fall under          the Benefits topic category. This structure allows you to report on the number of cases          filed against medical plans when there are multiple HR services.</li><li class="li">HR Services identify specific fields you want to capture on the HR case. You can create          tasks to capture this information.<ul class="ul" id="sn_hr_core_service_list-setup__ul_ydp_bpm_lx"><li class="li">Define the fulfillment process. Create tasks to capture all work required for other              individuals or departments. Acknowledgement types can be used to ensure that a task is              completed. Instructions on how to complete a task can also be included.</li></ul></li></ul></div>  </div>]]></content>
+        <last_sync>2018-06-23 19:35:15</last_sync>
+        <modifier>normal</modifier>
+        <name>sn_hr_core_service_list-normal</name>
+        <page>sn_hr_core_service_list</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-06-08 19:35:08</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0d61c6c2dbae9340e93a9c27db9619b9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sn_hr_core_service_list-normal</sys_name>
+        <sys_package display_value="SH Shelter" source="x_bp3g_sh_shelter">566154cbdbd25700e93a9c27db9619ec</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH Shelter">566154cbdbd25700e93a9c27db9619ec</sys_scope>
+        <sys_update_name>sys_embedded_help_content_0d61c6c2dbae9340e93a9c27db9619b9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-23 19:35:15</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d61c6c2dbae9340e93a9c27db9619b9"/>
+</record_update>

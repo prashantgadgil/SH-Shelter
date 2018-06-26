@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>hr</category>
+        <content><![CDATA[    <h1 class="title topictitle1">Add or modify an HR service topic category</h1>        <div class="body taskbody">        <ol class="ol steps" id="sn_hr_core_topic_category-normal__steps_kb2_y1q_fx"><li class="li step">                <span class="ph cmd">Complete the form.</span>                <table class="simpletable choicetable choicetableborder" id="sn_hr_core_topic_category-normal__choicetable_bdl_3cq_4bb"><thead><tr><th id="d496708e29-option">Option</th><th id="d496708e29-desc">Description</th></tr></thead><tbody><tr class="strow chrow"><td id="d496708e33" class="stentry choption"><strong>Active</strong></td><td class="stentry chdesc">Check to make this topic category active.</td></tr><tr class="strow chrow"><td id="d496708e42" class="stentry choption"><strong>COE</strong></td><td class="stentry chdesc">Click and select the Center of Excellence (COE) to be associated                            with this topic category.<p class="p">COEs are associated with                            tables.</p></td></tr><tr class="strow chrow"><td id="d496708e53" class="stentry choption"><strong>Name</strong></td><td class="stentry chdesc">Name of the topic category.</td></tr></tbody></table>            </li><li class="li step">                <span class="ph cmd">Click <span class="ph uicontrol">New</span> to add <span class="ph uicontrol">Topic Details</span> to                    the <span class="ph uicontrol">Topic Category</span>.</span>            </li><li class="li step">                <span class="ph cmd">Click <span class="ph uicontrol">Submit</span>.</span>            </li></ol>    </div>]]></content>
+        <last_sync>2018-06-18 01:54:06</last_sync>
+        <modifier>normal</modifier>
+        <name>sn_hr_core_topic_category-normal</name>
+        <page>sn_hr_core_topic_category</page>
+        <product>1</product>
+        <qualifier/>
+        <role/>
+        <role_order>1000</role_order>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-06-03 01:53:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d6e1410db6e9b00e93a9c27db9619a0</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>sn_hr_core_topic_category-normal</sys_name>
+        <sys_package display_value="SH Shelter" source="x_bp3g_sh_shelter">566154cbdbd25700e93a9c27db9619ec</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SH Shelter">566154cbdbd25700e93a9c27db9619ec</sys_scope>
+        <sys_update_name>sys_embedded_help_content_4d6e1410db6e9b00e93a9c27db9619a0</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-18 01:54:06</sys_updated_on>
+        <version>k</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=4d6e1410db6e9b00e93a9c27db9619a0"/>
+</record_update>

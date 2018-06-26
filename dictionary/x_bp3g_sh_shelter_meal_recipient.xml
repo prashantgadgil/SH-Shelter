@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Meal Recipient" max_length="40" name="x_bp3g_sh_shelter_meal_recipient" type="collection">
+        <element label="Client" max_length="32" name="client" reference="x_bp3g_sh_client_client" type="reference"/>
+        <element label="Meal" max_length="32" name="meal" reference="x_bp3g_sh_shelter_meal" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <index name="index">
+            <element name="meal"/>
+        </index>
+        <index name="index2">
+            <element name="client"/>
+        </index>
+    </element>
+</database>
